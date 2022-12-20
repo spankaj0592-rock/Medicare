@@ -1,0 +1,29 @@
+nav {
+color: White;
+align-items: center;
+display:flex;
+    background-color: red;
+}
+
+.rightside ul{
+    list-style-type: none;
+    display:flex;
+    /* text-align:center;  */
+}
+
+.rightside ul li{
+    text-decoration:none;
+}
+.rightside ul li a{
+    margin: 30px;
+    padding: 10px;
+
+}
+
+.leftside ul li{
+    margin-left: 70px;
+}
+.leftside ul{
+    display: flex;
+    list-style-type: none;
+}
